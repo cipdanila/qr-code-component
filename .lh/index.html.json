@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 5,
+            "activePatchIndex": 7,
             "patches": [
                 {
                     "date": 1710872883886,
@@ -28,6 +28,14 @@
                 {
                     "date": 1710875258130,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -21,12 +21,12 @@\n                 </div>\n             </section>\n         </main>\n \n-        <!-- <footer>\n+        <footer>\n             <div class=\"attribution\">\n                 Challenge by <a href=\"https://www.frontendmentor.io?ref=challenge\" target=\"_blank\" rel=\"noopener\">Frontend Mentor</a>.\n                 Coded by <a href=\"https://github.com/cipdanila\">Ciprian Danila</a>.\n             </div>\n-        </footer> -->\n+        </footer>\n     </body>\n </html>\n"
+                },
+                {
+                    "date": 1710878005711,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,8 @@\n \n         <title>Frontend Mentor | QR code component</title>\n     </head>\n     <body>\n-\n         <main>\n             <section class=\"card\">\n                 <img src=\"./images/image-qr-code.png\" alt=\"qr code\" />\n                 <div class=\"card-content\">\n@@ -20,9 +19,8 @@\n                     <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>\n                 </div>\n             </section>\n         </main>\n-\n         <footer>\n             <div class=\"attribution\">\n                 Challenge by <a href=\"https://www.frontendmentor.io?ref=challenge\" target=\"_blank\" rel=\"noopener\">Frontend Mentor</a>.\n                 Coded by <a href=\"https://github.com/cipdanila\">Ciprian Danila</a>.\n"
+                },
+                {
+                    "date": 1710878017108,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -19,8 +19,9 @@\n                     <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>\n                 </div>\n             </section>\n         </main>\n+\n         <footer>\n             <div class=\"attribution\">\n                 Challenge by <a href=\"https://www.frontendmentor.io?ref=challenge\" target=\"_blank\" rel=\"noopener\">Frontend Mentor</a>.\n                 Coded by <a href=\"https://github.com/cipdanila\">Ciprian Danila</a>.\n"
                 }
             ],
             "date": 1710872883886,

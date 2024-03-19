@@ -22,7 +22,7 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0 auto;
-    padding: 6em 1.9em;
+    padding: 5.7em 1.9em;
 }
 
 main {
@@ -76,11 +76,15 @@ footer {
 
 @media (min-width: 480px) {
     body {
-        margin: 4rem;
+        margin: 4.2rem;
     }
 
     .card {
         width: 320px;
-        padding: 1em;
+        padding: 1.1em;
+    }
+
+    .card-content {
+        padding-top: 1em;
     }
 }
